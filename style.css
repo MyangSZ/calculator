@@ -14,7 +14,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #F5EFFF;
 }
+
 #container{
     width: 100%;
     margin: auto;
